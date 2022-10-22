@@ -1,7 +1,7 @@
 # devopsb29-shellscript
 ### Deleted rajadev branch
 ---
-> --- Below is the Syntax for README.md file.
+> -- Below is the Syntax for README.md file.
 
 [what is README.md file](https://www.geeksforgeeks.org/what-is-readme-md-file/).
 
