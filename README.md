@@ -1,5 +1,5 @@
 # devopsb29-shellscript
-### Added rajadev branch
+### Deleted rajadev branch
 ---
 > --- Below is the Syntax for README.md file.
 
