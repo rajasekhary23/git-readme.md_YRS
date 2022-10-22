@@ -7,6 +7,7 @@
 
 ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png)
 
+
 -Just add a dash first and then write a text.
 
 -If you add another dash in the following line, you will have another item in the list.
@@ -17,6 +18,7 @@ Sometimes you want bullet points:
 
 *Start a line with a star 
 *Profit!
+
 
 > This is a blockquote
 
