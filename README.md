@@ -8,14 +8,11 @@
 ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png)
 
 
--Just add a dash first and then write a text.
+- Just add a dash first and then write a text.
 
--If you add another dash in the following line, you will have another item in the list.  
-
+- If you add another dash in the following line, you will have another item in the list.  
     - If you add four spaces or use a tab key, you will create an indented list.  
-    
         - If you need sert an indenta list within an intended one, just press a tab key again.  
-        
 
 Sometimes you want bullet points:
 
